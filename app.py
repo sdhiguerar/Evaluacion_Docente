@@ -12,8 +12,8 @@ from reportlab.lib import pagesizes
  
 st.set_page_config(page_title="Sistema de Evaluación de Talleres", page_icon="📘", layout="centered")
  
-DOCENTE_USER = "docente"
-DOCENTE_PASS = "curso2025"
+DOCENTE_USER = "sebastian"
+DOCENTE_PASS = "curso2026"
 CSV_FILE     = "historial_evaluaciones.csv"
  
 RUBRICAS = {
